@@ -1,0 +1,6 @@
+Hello Co22401
+git init: khởi tạo local repository
+git add <tên-file>:đẩy file demo.tt vào staging area
+git commit -m "hello git": đưa thay đổi vào local repo, tạo 1 snap shot lưu trữ lại"
+git remote: kết nối local repo với remote repo
+git push origin master: đẩy code ừ local repo
